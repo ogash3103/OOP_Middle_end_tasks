@@ -12,3 +12,4 @@ C:\Users\User\Desktop\C#\MohirDEV\OOP_Middle_end_tasks\obj\Debug\net8.0\refint\O
 C:\Users\User\Desktop\C#\MohirDEV\OOP_Middle_end_tasks\obj\Debug\net8.0\OOP_Middle_end_tasks.pdb
 C:\Users\User\Desktop\C#\MohirDEV\OOP_Middle_end_tasks\obj\Debug\net8.0\OOP_Middle_end_tasks.genruntimeconfig.cache
 C:\Users\User\Desktop\C#\MohirDEV\OOP_Middle_end_tasks\obj\Debug\net8.0\ref\OOP_Middle_end_tasks.dll
+C:\Users\User\Desktop\C#\MohirDEV\OOP_Middle_end_tasks\obj\Debug\net8.0\OOP_Middle_end_tasks.sourcelink.json
